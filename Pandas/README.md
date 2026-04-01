@@ -1,0 +1,5 @@
+- Revised pandas imp functions
+- Revised fundamnetals concepts
+- Learned advanced optimization concepts for large dataframes
+- Understood memory optimization and data type representations in pandas
+- Cleaned a very messy dataset with help of pandas and visulization of data
